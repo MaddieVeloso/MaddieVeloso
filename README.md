@@ -7,7 +7,7 @@
   🐱 CatLover
   
 <div >
-  <a href="https://github.com/EduDead">
+  <a href="https://github.com/MaddieVeloso">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=EduDead&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduDead&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
